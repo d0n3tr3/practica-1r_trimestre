@@ -1,5 +1,7 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
-
+.format{
+    width: 1024px;
+}
 .img-article{
     background-repeat: no-repeat;
     height: 359px;
@@ -8,32 +10,40 @@
     height: 279px;
     width: 146px;
 }
+.lhw{
+    height: 30px;
+    width: 100px;
+}
+
+
+.logo{
+    background-image: url(img/logo.png);}
 .img1{
     background-image: url(img/img1.png);}
 .img2{
     background-image: url(img/img2.png);}
 .img3{
-    background-image: url(/img/img3.png);}
+    background-image: url(img/img3.png);}
 .img4{
-    background-image: url(/img/img4.png);}
+    background-image: url(img/img4.png);}
 .img5{
-    background-image: url(/img/img5.png);}
+    background-image: url(img/img5.png);}
 .img6{
-    background-image: url(/img/img6.png);}
+    background-image: url(img/img6.png);}
 .img7{
-    background-image: url(/img/img7.png);}
+    background-image: url(img/img7.png);}
 .img8{
-    background-image: url(/img/img8.png);}
+    background-image: url(img/img8.png);}
 .img9{
-    background-image: url(/img/img9.png);}
+    background-image: url(img/img9.png);}
 .img10{
-    background-image: url(/img/img10.png);}
+    background-image: url(img/img10.png);}
 .img11{
-    background-image: url(/img/img11.png);}
+    background-image: url(img/img11.png);}
 .img12{
-    background-image: url(/img/img12.png);}
+    background-image: url(img/img12.png);}
 .img13{
-    background-image: url(/img/img13.png);}
+    background-image: url(img/img13.png);}
 .img14{
-    background-image: url(/img/img14.png);}
+    background-image: url(img/img14.png);}
 
