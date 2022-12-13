@@ -4,6 +4,10 @@
     background-repeat: no-repeat;
     height: 359px;
 }
+.img-post{
+    background-repeat: no-repeat;
+    height: 575px;
+}
 
 .hwlb {
     height: 279px;
@@ -15,6 +19,15 @@
     width: 100px;
 }
 
+.grey {
+    color: grey;
+}
+
+.bcn:hover {
+    background-color: darkgrey;
+    border-radius: 10%;
+    opacity: 60%;
+}
 
 .logo {
     background-image: url(img/logo.png);
@@ -74,6 +87,22 @@
 
 .img14 {
     background-image: url(img/img14.png);
+}
+
+.post1 {
+    background-image: url(img/post1.png);
+}
+
+.post2 {
+    background-image: url(img/post2.png);
+}
+
+.post3 {
+    background-image: url(img/post3.png);
+}
+
+.post4 {
+    background-image: url(img/post4.png);
 }
 
 .topic {
