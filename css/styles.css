@@ -104,7 +104,9 @@
 .post4 {
     background-image: url(img/post4.png);
 }
-
+.face_tomas{
+    background-image: url(img/face_tomas.png);
+}
 .topic {
     display: flex;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.0835598);
