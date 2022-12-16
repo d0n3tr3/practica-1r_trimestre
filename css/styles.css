@@ -6,7 +6,8 @@
     background-repeat: no-repeat;
     height: 359px;
 }
-.img-post{
+
+.img-post {
     background-repeat: no-repeat;
     height: 575px;
 }
@@ -24,12 +25,14 @@
 .grey {
     color: grey;
 }
+
 /* change color when you put cursos in a word */
 .bcn:hover {
     background-color: darkgrey;
     border-radius: 10%;
     opacity: 60%;
 }
+
 /*  Imports of images and logos */
 .logo {
     background-image: url(img/logo.png);
@@ -106,19 +109,22 @@
 .post4 {
     background-image: url(img/post4.png);
 }
-.face_tomas{
+
+.face_tomas {
     background-image: url(/img/face_tomas.png);
     border-radius: 50% !important;
     object-fit: contain;
     background-repeat: no-repeat;
     width: 82px;
-    height: 82px; 
+    height: 82px;
 }
+
 /*  More classes to make better de page */
-.margin{
+.margin {
     width: 972px;
     height: 236px;
 }
+
 .topic {
     display: flex;
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.0835598);
